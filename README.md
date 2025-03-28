@@ -18,7 +18,7 @@ This project is designed to create an innovative eyewear website using the MERN 
 ## Output:
 Here’s a screenshot of the homepage:
 
-![Homepage]https://github.com/VidhiPatel0324/OPTISAP/blob/104e15f433f233f63746e15c64536a502563c258/Screenshot%202025-03-28%20162403.png
+![Homepage]https://github.com/VidhiPatel0324/OPTISAP/blob/3508a12c9122f0045d26273492a75140190f8b3f/Screenshot%202025-03-28%20162403.png
 
 ## Setup Instructions:
 1. Clone the repository: `git clone https://github.com/username/OPTISAP.git`
