@@ -59,12 +59,18 @@ OPTISAP is a smart, AI-powered eyewear shopping platform developed using the **M
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![Homepage](https://github.com/VidhiPatel0324/OPTISAP/blob/3508a12c9122f0045d26273492a75140190f8b3f/Screenshot%202025-03-28%20162403.png)
+![HOMEPAGE](https://github.com/user-attachments/assets/c8a88a1c-f6f0-432b-8f50-9fc8c1fadd4a)
+
 
 ![Homepage2](https://github.com/VidhiPatel0324/OPTISAP/blob/bfd3cfea5226b704f8033e614ab18012bfdffdd3/Screenshot%202025-03-28%20162413.png)
 
 ### 🔹 Login Page
-![Loginpage](https://github.com/VidhiPatel0324/OPTISAP/blob/a09879d808b1b58eb5a949d7a635c1db1878f5cb/Screenshot%202025-03-28%20162341.png)
+
+![LOGIN](https://github.com/user-attachments/assets/ef5905ee-ec7c-444a-b110-2a4807a8e54e)
+
+
+### 🔹 signup Page
+![SIGNUP](https://github.com/user-attachments/assets/cb6fca51-53b3-4bf0-8860-42ab8fe8234a)
 
 ---
 
