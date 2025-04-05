@@ -11,9 +11,6 @@ OPTISAP is a smart, AI-powered eyewear shopping platform developed using the **M
 - **Voice Search & Navigation**: Control the website using natural voice commands.
 - **Voice Settings Dropdown**: Change voice input/output language, pitch, and speed.
 - **SAP Chatbot (Aldery AI)**: 24/7 assistant for guided shopping, FAQs, and order tracking.
-- **Real-time SAP Cloud Sync**: Inventory, order tracking, and consultation updates.
-- **Low-Data AI Mode**: Designed for rural areas with slow connections.
-- **KYC-Enabled Shopping**: Secure, identity-verified purchases.
 - **Admin Dashboard**: Manage products, orders, and users in real-time.
 
 ---
@@ -38,7 +35,6 @@ OPTISAP is a smart, AI-powered eyewear shopping platform developed using the **M
 
 ### SAP Tools:
 - SAP Webchat 
-- SAP Cloud Platform
 - SAP Fiori Framework
 
 ---
