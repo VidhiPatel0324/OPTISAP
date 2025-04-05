@@ -1,6 +1,6 @@
 # OPTISAP - Eyewear Website 👓💻
 
-OPTISAP is a smart, AI-powered eyewear shopping platform developed using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), **SAP Fiori**, and **SAP Chatbot (Aldery AI)**. It delivers a seamless and intelligent shopping experience with virtual try-on, AI lens recommendations, voice commands, and chatbot assistance.
+OPTISAP is a smart, AI-powered eyewear shopping platform developed using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), **SAP Fiori**, and **SAP Chatbot**. It delivers a seamless and intelligent shopping experience with virtual try-on, AI lens recommendations, voice commands, and chatbot assistance.
 
 ---
 
@@ -37,7 +37,7 @@ OPTISAP is a smart, AI-powered eyewear shopping platform developed using the **M
 - Web Speech API
 
 ### SAP Tools:
-- SAP Webchat (Aldery AI)
+- SAP Webchat 
 - SAP Cloud Platform
 - SAP Fiori Framework
 
@@ -48,7 +48,7 @@ OPTISAP is a smart, AI-powered eyewear shopping platform developed using the **M
 - **User Authentication**: JWT-secured login and signup with role-based access (User/Admin)
 - **Product Catalog & Filters**: Search eyewear, sunglasses, and accessories
 - **Shopping Cart & Checkout**: Add-to-cart, quantity update, and seamless checkout
-- **Payment Integration**: Secure payments using Stripe or PayPal
+- **Payment Integration**: Secure payments using Stripe .
 
 ---
 
